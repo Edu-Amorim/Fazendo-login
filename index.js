@@ -1,2 +1,1 @@
-console.log("Hello world!");
-alert("Um alerta qualquer")
+console.log("Hello world!")
