@@ -12,6 +12,9 @@ router.post('/entrar', controller.submit);
 // GET /login/cadastro
 router.get('/cadastro', controller.cadastro);
 
+// GET /login/cadastro
+router.get('/lista-usuario', controller.submit);
+
 // POST /login/cadastro
 router.post('/cadastro', controller.novoCadastro);
 
